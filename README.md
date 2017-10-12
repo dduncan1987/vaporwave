@@ -3,17 +3,17 @@
 ![CI Status](https://travis-ci.org/adrianobrito/vaporwave.svg?branch=master)
 
 
-Vaporwave is a HTTP server capable of support self-implemented REST API's. You can use HTTP methods to send request to this server as it was a JSON database or a Firebase endpoint. It's provide the minimal necessary infrastructure to allow you adopt an UI-First development flow.
+Vaporwave is a HTTP server capable of supporting self-implemented REST API's. You can use HTTP methods to send requests to this server as if it was a JSON database or a Firebase endpoint. It provides the minimal necessary infrastructure to allow you to adopt an UI-First development flow.
 
 # Installation
-The package comes as CLI. So you need to install it globally via npm. The current version is not definitive release. You can check the roadmap to first candidate release.
+The package comes as a CLI. So you need to install it globally via npm. The current version is not definitive release. You can check the roadmap to first candidate release.
 
 ```sh
 $ npm install -g @adrianobrito/vaporwave
 ```
 
 # Usage
-After installation, it's necessary to execute a command to startup server. If it's successfull started you will have a output like that below on your command shell.
+After installation, it's necessary to execute a command to start the server. If it's successfully started you will see the following output on your command shell.
 
 ```sh
 $ vaporwave
